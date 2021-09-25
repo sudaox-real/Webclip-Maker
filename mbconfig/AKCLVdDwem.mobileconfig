@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>FullScreen</key>
+				<true />
+				<key>IgnoreManifestScope</key>
+				<true />
+				<key>Label</key>
+				<string>Default</string>
+				<key>PayloadDisplayName</key>
+				<string>Webclip</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.webClip.managed</string>
+				<key>PayloadType</key>
+				<string>com.apple.webClip.managed</string>
+				<key>PayloadUUID</key>
+				<string>8b8923c0-8c4e-41a6-aed4-8bc7d75131cb</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>Precomposed</key>
+				<true />
+				<key>URL</key>
+				<string>https://github.com/sudaox-real/Webclip-Maker</string>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>Default webclip</string>
+		<key>PayloadDisplayName</key>
+		<string>Default</string>
+		<key>PayloadIdentifier</key>
+		<string>com.7MkIYZI1Fd.AKCLVdDwem</string>
+		<key>PayloadOrganization</key>
+		<string>SudaWorks</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>c08cb535-d139-40d8-80b4-12f915c625f5</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
